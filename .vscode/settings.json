@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        
+    "terminal.foreground": "#2a3c4d"  ,
+    "debugConsoleInputIcon.foreground": "#2a3c4d",  
+    "debugConsole.warningForeground": "#c4bb41",
+    "debugConsole.errorForeground": "#d00",
+    "debugConsole.sourceForeground": "#0c0",
+    "debugConsole.infoForeground": "#2d2d33"
+    }
+}
